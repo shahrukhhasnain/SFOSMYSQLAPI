@@ -1,0 +1,3 @@
+C:\Users\Shahrukh Hasnain\source\repos\SFOSMySQLAPI\SFOSMySQLAPI\obj\Debug\SFOSMySQLAPI.njsproj.CoreCompileInputs.cache
+C:\Users\Shahrukh Hasnain\source\repos\SFOSMySQLAPI\SFOSMySQLAPI\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Shahrukh Hasnain\source\repos\SFOSMySQLAPI\SFOSMySQLAPI\obj\Debug\SFOSMySQLAPI.njsprojAssemblyReference.cache
